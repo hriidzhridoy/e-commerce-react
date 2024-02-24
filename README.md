@@ -64,6 +64,5 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 <!-- CONTACT -->
 ## Contact
 
-Pawan Kumar Mehta - arowpk@gmail.com
+Asif Mamun Hridoy - amamunhridoy@gmail.com
 
-Project Link: [https://github.com/pawanpk87/myShop-Ecommerce-website](https://github.com/pawanpk87/myShop-Ecommerce-website)
